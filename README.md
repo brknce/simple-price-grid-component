@@ -1,6 +1,6 @@
 # Frontend Mentor - Single price grid component
 
-<p><b>You can see my solution:</b> https://brknce.github.io/simple_price_grid_component/</p>
+<p><b>You can see my solution:</b> https://brknce.github.io/simple-price-grid-component/</p>
 
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
